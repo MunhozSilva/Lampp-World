@@ -11,14 +11,18 @@ body {
 
 .top {
     background-color: whitesmoke;
-    height: 400px;
-    text-align: center;
+    height: 450px;    
     padding: 1px;
+}
+
+.top p {
+    text-align: left;
+    padding-left: 8%;
 }
 
 .middle {
     background-color: #3d576c;
-    height: 120px;
+    height: 150px;
     
 }
 

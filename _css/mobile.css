@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+body {
+    margin: 0;
+}
+
+.container {
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.top {
+    background-color: whitesmoke;
+    height: 450px;
+    text-align: center;
+    padding: 1px;
+}
+
+.middle {
+    background-color: #3d576c;
+    height: 450px;
+    
+}
+
+.bottom {
+    background-color: whitesmoke;
+    height: 500px;
+}
+
+.footer {
+    background-color:#3d576c;
+    height: 150px;
+    text-align: center;
+    padding-top: 10px;
+    box-sizing: border-box;
+}
